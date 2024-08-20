@@ -1,0 +1,5 @@
+Excellent Master's Thesis Award (2020, School Level)
+Third-Class Graduate Student Academic Scholarship (2020, National Level)
+Second-class Graduate Student Academic Scholarship (2019, National Level)
+Second-class Graduate Student Academic Scholarship (2018, National Level)
+Academic Progress Scholarship (2016, School level)

@@ -227,6 +227,9 @@ collections:
   service:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -297,6 +300,15 @@ defaults:
   - scope:
       path: ""
       type: service
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _awards
+  - scope:
+      path: ""
+      type: awards
     values:
       layout: single
       author_profile: true
