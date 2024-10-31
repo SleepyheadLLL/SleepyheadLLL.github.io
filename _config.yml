@@ -87,7 +87,7 @@ author:
   name             : "Shuainan Liu"
   avatar           : "photo.png"
   bio              : "Ph.D. student at Texas Tech Univerisity (TTU)"
-  employer         : "Texas Tech University"
+  employer         : #"Texas Tech University"
   location         : "Lubbock, Texas"
   pubmed           :
   orcid            : #"http://orcid.org/0000-0001-9259-3883"
