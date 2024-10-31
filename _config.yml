@@ -91,7 +91,7 @@ author:
   location         : "Lubbock, Texas"
   pubmed           :
   orcid            : #"http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : #"https://scholar.google.com/citations?user=YUKJ9k0AAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=YUKJ9k0AAAAJ&hl"
   email            : "Shuainan.Liu@ttu.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
