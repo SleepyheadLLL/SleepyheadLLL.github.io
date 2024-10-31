@@ -1,5 +1,5 @@
 ---
-title: "A file hierarchy CP-ABE scheme supporting graded user access"
+title: "A File Hierarchy CP-ABE Scheme Supporting Graded User Access"
 collection: publications
 permalink: /publication/2023-JOS-file-hierarchy-CP-ABE
 date: 2023-07-06
