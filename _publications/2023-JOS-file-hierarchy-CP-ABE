@@ -1,10 +1,10 @@
 ---
-title: "BayesPostEst: A file hierarchy CP-ABE scheme supporting graded user access"
+title: "A file hierarchy CP-ABE scheme supporting graded user access"
 collection: publications
 permalink: /publication/2023-JOS-file-hierarchy-CP-ABE
 date: 2023-07-06
 venue: 'Journal of Software'
 #paperurl: '/files/pdf/research/BayesPostEst.pdf'
 #link: 'https://doi.org/10.21105/joss.01722'
-#citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+#citation: '**Shuainan Liu**, Bin Liu, Zhen Guo, Chaosheng Feng, Zhiguang Qin, and Yu Qing. A file hierarchy CP-ABE scheme supporting graded user access. Journal of Software, 2023, 34(7):3329-3342. (CCF A)'
 ---
