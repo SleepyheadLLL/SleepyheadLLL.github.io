@@ -88,7 +88,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqaing Zhao. \
 - econd-class Graduate Student Academic Scholarship, 2018 & 2019.
 
 
-# 💻 Work Experiece
+# 🧾 Work Experience
 - *2021.07 - 2023.02*, Data Analyst, Management Trainee, Shanghai Pudong Development Bank Co., Ltd., Chengdu Branch, China.
 
 # 🧾 Professional Service
