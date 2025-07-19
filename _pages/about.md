@@ -81,8 +81,8 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqaing Zhao. \
 [//]: # (- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Educations
-- *2021.09 - 2024.05*, Master, East China Noraml University, Shanghai, China. 
-- *2014.09 - 2018.06*, Undergraduate, Huaqiao University, Quanzhou, China. 
+- *2018.09 - 2021.06*, Master, Sichuan Noraml University, Chengdu, China. 
+- *2014.09 - 2018.06*, Undergraduate, Huaqiao University, Sichuan Noraml University, Chengdu, China.
 
 [//]: # (# 💬 Invited Talks)
 
@@ -106,6 +106,6 @@ Journal Reviewer
 [//]: # (Conference Reviewer)
 
 # 🎸Hobbies
-- Guitar, I am an amateur guitarist with over 10 years of experience playing folk guitar.
+- Guitar, I am an amateur guitarist with over 10 years of experience playing acoustic guitar.
 
 Last updated on: 2025.07
