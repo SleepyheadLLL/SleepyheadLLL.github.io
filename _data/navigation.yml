@@ -16,7 +16,10 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Work Experiece"
-    url: "/#-Work Experiece"
+    url: "/#-work-experiece"
 
    - title: "Professional Service"
     url: "/#-professional-service"
+   
+   - title: "Hobbies"
+    url: "/#-hobbies"
