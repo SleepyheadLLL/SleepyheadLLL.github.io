@@ -23,12 +23,12 @@ main:
     url: "/#-educations"
     
   - title: "Work Experience"
-    url: "#-work-experience"
+    url: "#work-experience"
 
   - title: "Professional Service"
     url: "/#-professional-service"
 
   - title: "Hobbies"
-    url: "#-hobbies"
+    url: "#hobbies"
 
 
