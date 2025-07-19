@@ -97,7 +97,7 @@ Journal Reviewer
 
 [//]: # (Conference Reviewer)
 
-# 🎸Hobbies
+# 🎸 Hobbies
 - Guitar, I am an amateur guitarist with over 10 years of experience playing acoustic guitar.
 
 Last updated on: 2025.07
