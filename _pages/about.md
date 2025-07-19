@@ -88,7 +88,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqaing Zhao. \
 - econd-class Graduate Student Academic Scholarship, 2018 & 2019.
 
 
-# 🧾 Work Experience
+# 💻 Work Experience
 - *2021.07 - 2023.02*, Data Analyst, Management Trainee, Shanghai Pudong Development Bank Co., Ltd., Chengdu Branch, China.
 
 # 🧾 Professional Service
@@ -97,7 +97,7 @@ Journal Reviewer
 
 [//]: # (Conference Reviewer)
 
-# 🎸 Hobbies
-- Guitar, I am an amateur guitarist with over 10 years of experience playing acoustic guitar.
+# 🎶 Hobbies
+- Guitar. I am an amateur guitarist with over 10 years of experience playing acoustic guitar.
 
 Last updated on: 2025.07
