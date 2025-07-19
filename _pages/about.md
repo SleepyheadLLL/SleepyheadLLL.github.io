@@ -73,7 +73,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqaing Zhao. \
 
 # 📖 Educations
 - *2018.09 - 2021.06*, Master, Sichuan Noraml University, Chengdu, China. 
-- *2014.09 - 2018.06*, Undergraduate, Huaqiao University, Sichuan Noraml University, Chengdu, China.
+- *2014.09 - 2018.06*, Undergraduate, Sichuan Noraml University, Chengdu, China.
 
 [//]: # (# 💬 Invited Talks)
 
