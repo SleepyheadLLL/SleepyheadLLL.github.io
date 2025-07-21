@@ -34,7 +34,7 @@ redirect_from:
 # 📝 Publications 
 
 * A file hierarchy CP-ABE scheme supporting graded user access.\
-**Shuainan Liu**, Bin Liu; Zhen Guo; Chaosheng Feng Zhiguang Qin, Yu Qing. \
+**Shuainan Liu**, Bin Liu, Zhen Guo, Chaosheng Feng, Zhiguang Qin, Yu Qing. \
 **Journal of Software, 2023, 34(7):3329-3342.**
 
 * A CP-WABE Scheme Supports Offline/Online Encryption and Verifiable Outsourced Decryption.\
