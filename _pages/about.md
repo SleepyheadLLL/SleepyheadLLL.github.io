@@ -85,7 +85,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqaing Zhao. \
 - Distinguished Graduate Student Assistantships (2023 - 2027).
 - Outstanding Master's Thesis of Sichuan Normal University, 2024.
 - Third-Class Graduate Student Academic Scholarship, 2020
-- econd-class Graduate Student Academic Scholarship, 2018 & 2019.
+- Second-class Graduate Student Academic Scholarship, 2018 & 2019.
 
 
 # 💻 Work Experience
