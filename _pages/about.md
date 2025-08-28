@@ -33,7 +33,7 @@ redirect_from:
 
 # 📝 Publications 
 
-* A file hierarchy CP-ABE scheme supporting graded user access.\
+* A File Hierarchy CP-ABE Scheme Supporting Graded User Access.\
 **Shuainan Liu**, Bin Liu, Zhen Guo, Chaosheng Feng, Zhiguang Qin, Yu Qing. \
 **Journal of Software, 2023, 34(7):3329-3342.**
 
