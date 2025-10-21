@@ -82,7 +82,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqiang Zhao. \
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 🏆 Honors and Awards
-- Distinguished Graduate Student Assistantships (2023 - 2027).
+- Distinguished Graduate Student Assistantship (2023 - 2027).
 - Outstanding Master's Thesis of Sichuan Normal University, 2021.
 - Third-Class Graduate Student Academic Scholarship, 2020
 - Second-class Graduate Student Academic Scholarship, 2018 & 2019.
