@@ -38,7 +38,7 @@ redirect_from:
 **Journal of Software, 2023, 34(7):3329-3342.**
 
 * A CP-WABE Scheme Supports Offline/Online Encryption and Verifiable Outsourced Decryption.\
-Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqaing Zhao. \
+Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqiang Zhao. \
 **Acta Electronica Sinica. 2020, 48(11): 2146-2153.**
 
 * A KP-ABE Scheme with Outsourced Decryption \
