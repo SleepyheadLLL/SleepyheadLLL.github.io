@@ -83,7 +83,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqaing Zhao. \
 
 # 🏆 Honors and Awards
 - Distinguished Graduate Student Assistantships (2023 - 2027).
-- Outstanding Master's Thesis of Sichuan Normal University, 2024.
+- Outstanding Master's Thesis of Sichuan Normal University, 2021.
 - Third-Class Graduate Student Academic Scholarship, 2020
 - Second-class Graduate Student Academic Scholarship, 2018 & 2019.
 
@@ -93,6 +93,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqaing Zhao. \
 
 # 🧾 Professional Service
 Journal Reviewer
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE internet of things journal (IOTJ)
 
 [//]: # (Conference Reviewer)
