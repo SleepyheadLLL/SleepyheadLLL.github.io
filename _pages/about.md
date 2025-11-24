@@ -35,7 +35,7 @@ redirect_from:
 # 📝 Publications 
 * Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure.\
 **Shuainan Liu**, Tianxi Ji, Zhongshuo Fang, Lu Wei, Pan Li. \
-**Proceedings of the 2026 ACM SIGMOD International Conference on Management of Data (SIGMOD'26).**
+**ACM SIGMOD International Conference on Management of Data (SIGMOD'26).**
 
 * A File Hierarchy CP-ABE Scheme Supporting Graded User Access.\
 **Shuainan Liu**, Bin Liu, Zhen Guo, Chaosheng Feng, Zhiguang Qin, Yu Qing. \
