@@ -25,14 +25,17 @@ redirect_from:
     overflow-y: scroll; 
   }
 </style>
-2025.11:  🎉 One paper is accepted by SIGMOD'26.
+
 <div class="scrollable">
  <ul>
-
+<li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by SIGOD'25 </li>
 </ul>
 </div>
 
 # 📝 Publications 
+* Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure.\
+**Shuainan Liu**, Tianxi Ji, Zhongshuo Fang, Lu Wei, Pan Li. \
+**Journal of Software, 2023, 34(7):3329-3342.**
 
 * A File Hierarchy CP-ABE Scheme Supporting Graded User Access.\
 **Shuainan Liu**, Bin Liu, Zhen Guo, Chaosheng Feng, Zhiguang Qin, Yu Qing. \
