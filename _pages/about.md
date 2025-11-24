@@ -106,4 +106,4 @@ Journal Reviewer
 # 🎶 Hobbies
 - Guitar. I am an amateur guitarist with over 10 years of experience playing acoustic guitar.
 
-Last updated on: 2025.07
+Last updated on: 2025.11
