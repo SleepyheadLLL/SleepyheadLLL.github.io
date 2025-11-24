@@ -14,6 +14,7 @@ redirect_from:
 ### 💡 Research Interests:
 * Differential Privacy.
 * Federated Learning.
+* Diffusion Model.
 * Cryptography.
 
 
@@ -24,7 +25,7 @@ redirect_from:
     overflow-y: scroll; 
   }
 </style>
-
+2025.11:  🎉 One paper is accepted by SIGMOD'26.
 <div class="scrollable">
  <ul>
 
