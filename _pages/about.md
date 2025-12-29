@@ -45,7 +45,7 @@ redirect_from:
 Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqiang Zhao. \
 **Acta Electronica Sinica. 2020, 48(11): 2146-2153. (CCF T1)**
 
-* A KP-ABE Scheme with Outsourced Decryption \
+* A KP-ABE Scheme with Outsourced Decryption. \
  Yunxia Jin, Hekun Yang, Chaosheng Feng, **Shuainan Liu**, Hang Li, Liping Zou, Guogen Wan. \
 **Acta Electronica Sinica. 2020, 48(3): 561-567. (CCF T1)**
 
