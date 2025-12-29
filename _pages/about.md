@@ -38,8 +38,8 @@ redirect_from:
 **ACM International Conference on Management of Data 2026 (SIGMOD'26). (CCF A)**
 
 * A File Hierarchy CP-ABE Scheme Supporting Graded User Access.\
-**Shuainan Liu**, Bin Liu, Zhen Guo, Chaosheng Feng, Zhiguang Qin, Yu Qing. (CCF T1)\
-**Journal of Software, 2023, 34(7):3329-3342.**
+**Shuainan Liu**, Bin Liu, Zhen Guo, Chaosheng Feng, Zhiguang Qin, Yu Qing. \
+**Journal of Software, 2023, 34(7):3329-3342. (CCF T1)**
 
 * A CP-WABE Scheme Supports Offline/Online Encryption and Verifiable Outsourced Decryption.\
 Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqiang Zhao. \
