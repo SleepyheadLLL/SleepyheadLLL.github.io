@@ -28,25 +28,30 @@ redirect_from:
 
 <div class="scrollable">
  <ul>
+<li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by TDSC. </li>
 <li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by SIGMOD'26. </li>
 </ul>
 </div>
 
-# 📝 Publications 
+# 📝 Publications
+* UR-CP-ABE: CP-ABE with Flexible Construction Mechanism and Efficient User Revocation Capability for Access Control in the Cloud.\
+Zhen Guo, Jiangkai Gao, **Shuainan Liu**, Rong Wang, Chaosheng Feng, Keping Yu, Kim Kwang Raymong Choo, and Mohsen Guizani. \
+**IEEE Transactions on Dependable and Secure Computing. (CCF A)**
+
 * Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure.\
-**Shuainan Liu**, Tianxi Ji, Zhongshuo Fang, Lu Wei, Pan Li. \
+**Shuainan Liu**, Tianxi Ji, Zhongshuo Fang, Lu Wei, and Pan Li. \
 **ACM International Conference on Management of Data 2026 (SIGMOD'26). (CCF A)**
 
 * A File Hierarchy CP-ABE Scheme Supporting Graded User Access.\
-**Shuainan Liu**, Bin Liu, Zhen Guo, Chaosheng Feng, Zhiguang Qin, Yu Qing. \
+**Shuainan Liu**, Bin Liu, Zhen Guo, Chaosheng Feng, Zhiguang Qin, and Yu Qing. \
 **Journal of Software, 2023, 34(7):3329-3342. (CCF T1)**
 
 * A CP-WABE Scheme Supports Offline/Online Encryption and Verifiable Outsourced Decryption.\
-Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, Kaiqiang Zhao. \
+Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, and Kaiqiang Zhao. \
 **Acta Electronica Sinica. 2020, 48(11): 2146-2153. (CCF T1)**
 
 * A KP-ABE Scheme with Outsourced Decryption. \
- Yunxia Jin, Hekun Yang, Chaosheng Feng, **Shuainan Liu**, Hang Li, Liping Zou, Guogen Wan. \
+ Yunxia Jin, Hekun Yang, Chaosheng Feng, **Shuainan Liu**, Hang Li, Liping Zou, and Guogen Wan. \
 **Acta Electronica Sinica. 2020, 48(3): 561-567. (CCF T1)**
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
@@ -106,4 +111,4 @@ Journal Reviewer
 # 🎶 Hobbies
 - Guitar. I am an amateur guitarist with over 10 years of experience playing acoustic guitar.
 
-Last updated on: 2025.11
+Last updated on: 2026.01
