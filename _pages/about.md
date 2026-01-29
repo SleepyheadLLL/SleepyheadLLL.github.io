@@ -28,7 +28,7 @@ redirect_from:
 
 <div class="scrollable">
  <ul>
-<li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by TDSC. </li>
+<li><strong>2026.01</strong>: &nbsp;🎉 One paper is accepted by TDSC. </li>
 <li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by SIGMOD'26. </li>
 </ul>
 </div>
