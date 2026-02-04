@@ -28,7 +28,7 @@ redirect_from:
 
 <div class="scrollable">
  <ul>
-<li><strong>2026.01</strong>: &nbsp;🎉 One poster is accepted by NDSS'26. </li>
+<li><strong>2026.02</strong>: &nbsp;🎉 One poster is accepted by NDSS'26. </li>
 <li><strong>2026.01</strong>: &nbsp;🎉 One paper is accepted by TDSC. </li>
 <li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by SIGMOD'26. </li>
 </ul>
@@ -112,4 +112,4 @@ Journal Reviewer
 # 🎶 Hobbies
 - Guitar. I am an amateur guitarist with over 10 years of experience playing acoustic guitar.
 
-Last updated on: 2026.01
+Last updated on: 2026.02
