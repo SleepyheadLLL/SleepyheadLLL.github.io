@@ -37,7 +37,7 @@ redirect_from:
 # 📝 Publications
 * UR-CP-ABE: CP-ABE with Flexible Construction Mechanism and Efficient User Revocation Capability for Access Control in the Cloud.\
 Zhen Guo, Jiangkai Gao, **Shuainan Liu**, Rong Wang, Chaosheng Feng, Keping Yu, Kim Kwang Raymong Choo, and Mohsen Guizani. \
-**IEEE Transactions on Dependable and Secure Computing. (CCF A)**
+**IEEE Transactions on Dependable and Secure Computing (TDSC). (CCF A)**
 
 * Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure.\
 **Shuainan Liu**, Tianxi Ji, Zhongshuo Fang, Lu Wei, and Pan Li. \
@@ -104,7 +104,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, and Kaiqiang Zhao. \
 
 # 🧾 Professional Service
 Journal Reviewer
-- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+#- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE internet of things journal (IOTJ)
 
 [//]: # (Conference Reviewer)
