@@ -104,7 +104,6 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, and Kaiqiang Zhao. \
 
 # 🧾 Professional Service
 Journal Reviewer
-#- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE internet of things journal (IOTJ)
 
 [//]: # (Conference Reviewer)
