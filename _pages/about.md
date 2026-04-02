@@ -28,6 +28,7 @@ redirect_from:
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.02</strong>: &nbsp;🎉 I received a fellowship grant from the Institute for Human Sciences (IHS). Sincere thanks to IHS for its generous support! </li>
 <li><strong>2026.02</strong>: &nbsp;🎉 One poster is accepted by NDSS'26. </li>
 <li><strong>2026.01</strong>: &nbsp;🎉 One paper is accepted by TDSC. </li>
 <li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by SIGMOD'26. </li>
@@ -93,6 +94,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, and Kaiqiang Zhao. \
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 🏆 Honors and Awards
+- Fellowship Grant awarded by the Institute for Human Sciences (IHS) (2026).
 - Distinguished Graduate Student Assistantship (2023 - 2027).
 - Outstanding Master's Thesis of Sichuan Normal University, 2021.
 - Third-Class Graduate Student Academic Scholarship, 2020
