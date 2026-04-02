@@ -105,6 +105,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, and Kaiqiang Zhao. \
 # 🧾 Professional Service
 Journal Reviewer
 - IEEE internet of things journal (IOTJ)
+- Knowledge-Based Systems (KBS)
 
 [//]: # (Conference Reviewer)
 
