@@ -36,13 +36,13 @@ redirect_from:
 </div>
 
 # 📝 Publications
-* UR-CP-ABE: CP-ABE with Flexible Construction Mechanism and Efficient User Revocation Capability for Access Control in the Cloud.\
-Zhen Guo, Jiangkai Gao, **Shuainan Liu**, Rong Wang, Chaosheng Feng, Keping Yu, Kim Kwang Raymong Choo, and Mohsen Guizani. \
-**IEEE Transactions on Dependable and Secure Computing (TDSC). (CCF A)**
-
 * Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure.\
 **Shuainan Liu**, Tianxi Ji, Zhongshuo Fang, Lu Wei, and Pan Li. \
 **ACM International Conference on Management of Data 2026 (SIGMOD'26). (CCF A)**
+  
+* UR-CP-ABE: CP-ABE with Flexible Construction Mechanism and Efficient User Revocation Capability for Access Control in the Cloud.\
+Zhen Guo, Jiangkai Gao, **Shuainan Liu**, Rong Wang, Chaosheng Feng, Keping Yu, Kim Kwang Raymong Choo, and Mohsen Guizani. \
+**IEEE Transactions on Dependable and Secure Computing (TDSC). (CCF A)**
 
 * A File Hierarchy CP-ABE Scheme Supporting Graded User Access.\
 **Shuainan Liu**, Bin Liu, Zhen Guo, Chaosheng Feng, Zhiguang Qin, and Yu Qing. \
@@ -114,4 +114,4 @@ Journal Reviewer
 # 🎶 Hobbies
 - Guitar. I am an amateur guitarist with over 10 years of experience playing acoustic guitar.
 
-Last updated on: 2026.02
+Last updated on: 2026.04
