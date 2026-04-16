@@ -39,6 +39,10 @@ redirect_from:
 * Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure.\
 **Shuainan Liu**, Tianxi Ji, Zhongshuo Fang, Lu Wei, and Pan Li. \
 **ACM International Conference on Management of Data 2026 (SIGMOD'26). (CCF A)**
+
+* Poster: Genomic Data Generation via Correlation-Guided and Privacy-Preserving Diffusion.\
+You Li, **Shuainan Liu**, Shaojie Zhan, Zhongshuo Fang, Tianxi Ji \
+**NDSS Symposium (NDSS'26).**
   
 * UR-CP-ABE: CP-ABE with Flexible Construction Mechanism and Efficient User Revocation Capability for Access Control in the Cloud.\
 Zhen Guo, Jiangkai Gao, **Shuainan Liu**, Rong Wang, Chaosheng Feng, Keping Yu, Kim Kwang Raymong Choo, and Mohsen Guizani. \
