@@ -89,7 +89,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, and Kaiqiang Zhao. \
 # 📖 Educations
 - *2023.09 - present*, Ph.D., Texas Tech University, Lubbock, United States. 
 - *2018.09 - 2021.06*, Master, Sichuan Noraml University, Chengdu, China. 
-- *2014.09 - 2018.06*, Undergraduate, Sichuan Noraml University, Chengdu, China.
+- *2014.09 - 2018.06*, Bachelor, Sichuan Noraml University, Chengdu, China.
 
 [//]: # (# 💬 Invited Talks)
 
