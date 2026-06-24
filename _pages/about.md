@@ -113,6 +113,9 @@ Journal Reviewer
 - IEEE internet of things journal (IOTJ)
 - Knowledge-Based Systems (KBS)
 
+Conference Reviewer
+- 27th Privacy Enhancing Technologies Symposium (PETS 2027)
+
 [//]: # (Conference Reviewer)
 
 # 🎶 Hobbies
