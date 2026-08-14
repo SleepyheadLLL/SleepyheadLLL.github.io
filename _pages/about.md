@@ -110,6 +110,7 @@ Hang Li, Chaosheng Feng, **Shuainan Liu**, Bin Liu, and Kaiqiang Zhao. \
 
 # 🧾 Professional Service
 Journal Reviewer
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE internet of things journal (IOTJ)
 - Knowledge-Based Systems (KBS)
 
@@ -121,4 +122,4 @@ Conference Reviewer
 # 🎶 Hobbies
 - Guitar. I am an amateur guitarist with over 10 years of experience playing acoustic guitar.
 
-Last updated on: 2026.04
+Last updated on: 2026.08
