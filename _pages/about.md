@@ -38,7 +38,7 @@ redirect_from:
 # 📝 Publications
 * Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure.\
 **Shuainan Liu**, Tianxi Ji, Zhongshuo Fang, Lu Wei, and Pan Li. \
-**ACM International Conference on Management of Data 2026 (SIGMOD'26). (CCF A)**
+**ACM International Conference on Management of Data 2026 (SIGMOD'26). (CCF A, Acceptance rate: 349/1049)**
 
 * Poster: Genomic Data Generation via Correlation-Guided and Privacy-Preserving Diffusion.\
 You Li, **Shuainan Liu**, Shaojie Zhan, Zhongshuo Fang, Tianxi Ji \
