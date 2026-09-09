@@ -28,6 +28,7 @@ redirect_from:
 
 <div class="scrollable">
  <ul>
+<li><strong>2026.02</strong>: &nbsp;🎉 One poster is accepted by JISA. </li>
 <li><strong>2026.02</strong>: &nbsp;🎉 I received a fellowship grant from the Institute for Human Sciences (IHS). Sincere thanks to IHS for its generous support! </li>
 <li><strong>2026.02</strong>: &nbsp;🎉 One poster is accepted by NDSS'26. </li>
 <li><strong>2026.01</strong>: &nbsp;🎉 One paper is accepted by TDSC. </li>
@@ -36,6 +37,10 @@ redirect_from:
 </div>
 
 # 📝 Publications
+* ABE-FL: Efficient and Secure Federated Learning Based on CP-ABE with HighSecurity Elliptic Curves.\
+Shixun Li, Maoli Tang, **Shuainan Liu**, Hongjie Zhang, Rong Wang, and Chaosheng Feng. \
+**Journal of Information Security and Applications. (CCF C)**
+
 * Privacy Loss of Noise Perturbation via Concentration Analysis of A Product Measure.\
 **Shuainan Liu**, Tianxi Ji, Zhongshuo Fang, Lu Wei, and Pan Li. \
 **ACM International Conference on Management of Data 2026 (SIGMOD'26). (CCF A, Acceptance rate: 349/1049)**
@@ -122,4 +127,4 @@ Conference Reviewer
 # 🎶 Hobbies
 - Guitar. I am an amateur guitarist with over 10 years of experience playing acoustic guitar.
 
-Last updated on: 2026.08
+Last updated on: 2026.09
