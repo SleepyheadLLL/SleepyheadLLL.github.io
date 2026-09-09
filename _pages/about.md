@@ -28,11 +28,11 @@ redirect_from:
 
 <div class="scrollable">
  <ul>
-<li><strong>2026.02</strong>: &nbsp;🎉 One poster is accepted by JISA. </li>
+<li><strong>2026.09</strong>: &nbsp;🎉 Our paper is accepted by JISA. </li>
 <li><strong>2026.02</strong>: &nbsp;🎉 I received a fellowship grant from the Institute for Human Sciences (IHS). Sincere thanks to IHS for its generous support! </li>
-<li><strong>2026.02</strong>: &nbsp;🎉 One poster is accepted by NDSS'26. </li>
-<li><strong>2026.01</strong>: &nbsp;🎉 One paper is accepted by TDSC. </li>
-<li><strong>2025.11</strong>: &nbsp;🎉 One paper is accepted by SIGMOD'26. </li>
+<li><strong>2026.02</strong>: &nbsp;🎉 Our poster is accepted by NDSS'26. </li>
+<li><strong>2026.01</strong>: &nbsp;🎉 Our paper is accepted by TDSC. </li>
+<li><strong>2025.11</strong>: &nbsp;🎉 Our paper is accepted by SIGMOD'26. </li>
 </ul>
 </div>
 
